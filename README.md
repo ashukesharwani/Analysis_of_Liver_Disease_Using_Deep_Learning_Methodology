@@ -26,7 +26,7 @@ b)	Data Standardization
 <img src="https://github.com/user-attachments/assets/3b3187c6-da62-4101-aca9-fb2ad2e0b4b0">
 
 # Hard Voting Classifier (HVC)
-<img src="https://github.com/user-attachments/assets/a028695b-75ed-4619-8ef9-1016bf357eb7">
+<img src="https://github.com/user-attachments/assets/a028695b-75ed-4619-8ef9-1016bf357eb7" width="300" alt="Description of image">
 
 
 
