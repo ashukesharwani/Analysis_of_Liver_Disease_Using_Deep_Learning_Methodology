@@ -25,9 +25,8 @@ b)	Data Standardization
 # Multilayer Perceptron Neural Network (MLP)
 <img src="https://github.com/user-attachments/assets/3b3187c6-da62-4101-aca9-fb2ad2e0b4b0">
 
-# 3.2.5	Hard Voting Classifier (HVC) ![image]()
-
-<img src=" https://github.com/user-attachments/assets/ae332a1f-dadd-437c-83f6-230b3d78efe4">
+# Hard Voting Classifier (HVC)
+<img src="https://github.com/user-attachments/assets/a028695b-75ed-4619-8ef9-1016bf357eb7">
 
 
 
