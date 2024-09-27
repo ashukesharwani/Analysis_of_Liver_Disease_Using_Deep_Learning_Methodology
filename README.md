@@ -16,17 +16,17 @@ a)	Data Cleaning
 b)	Data Standardization
 </p>
 
-# K-Nearest Neighbours (KNN)
-<img src="https://github.com/user-attachments/assets/3867c81d-87cf-4cce-8fe4-fa41addc797c">
+### K-Nearest Neighbours (KNN)
+<img src="https://github.com/user-attachments/assets/3867c81d-87cf-4cce-8fe4-fa41addc797c" width="300">
 
-# Support Vector Machines (SVM) 
-<img src="https://github.com/user-attachments/assets/9dbb623f-a502-4fb2-809a-5407e5e22fcc">
+### Support Vector Machines (SVM) 
+<img src="https://github.com/user-attachments/assets/9dbb623f-a502-4fb2-809a-5407e5e22fcc" width="300">
 
-# Multilayer Perceptron Neural Network (MLP)
-<img src="https://github.com/user-attachments/assets/3b3187c6-da62-4101-aca9-fb2ad2e0b4b0">
+### Multilayer Perceptron Neural Network (MLP)
+<img src="https://github.com/user-attachments/assets/3b3187c6-da62-4101-aca9-fb2ad2e0b4b0" width="300">
 
-# Hard Voting Classifier (HVC)
-<img src="https://github.com/user-attachments/assets/a028695b-75ed-4619-8ef9-1016bf357eb7" width="300" alt="Description of image">
+### Hard Voting Classifier (HVC)
+<img src="https://github.com/user-attachments/assets/a028695b-75ed-4619-8ef9-1016bf357eb7" width="300">
 
 
 
